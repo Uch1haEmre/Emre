@@ -1,4 +1,4 @@
-<div align=center><img width=200 src=https://images.app.goo.gl/Xtiz8GSTSFy7WY8d7>
+<div align=center><img src=https://images.app.goo.gl/Xtiz8GSTSFy7WY8d7>
 </div>
 <br><br>
 <div style=text-align:center;><a>EMRE<a>
