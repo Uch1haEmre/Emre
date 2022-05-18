@@ -9,13 +9,13 @@
 <br><br>
 <tr>
 <td><a href="https://m.youtube.com/channel/UCgFoff2N0UD6ifXwnQBSmGA">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black">
 </a>
 <td><a href="https://twitch.tv/emres_01">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black">
 </a>
 <td><a href="https://discord.gg/7VebedVpbw">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black">
 </a>
 </tr>
 <tr>
