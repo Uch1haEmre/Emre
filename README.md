@@ -1,7 +1,7 @@
 <div align=center><img src=https://images.app.goo.gl/Xtiz8GSTSFy7WY8d7>
 </div>
 <br><br>
-<div style=text-align:center;><a>EMRE<a>
+<div style=text-align:center><a>EMRE<a>
 </div>
 <table class="center">
 <tr>
