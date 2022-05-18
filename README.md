@@ -1,4 +1,4 @@
-<div align=center><img width=200 href=https://github.com/Uch1haEmre/Emre/pull/1#issue-1240355805>
+<div align=center><img width=200 src=https://images.app.goo.gl/Xtiz8GSTSFy7WY8d7>
 </div>
 <br><br>
 <div style=text-align:center;><a>EMRE<a>
