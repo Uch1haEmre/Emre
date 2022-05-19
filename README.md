@@ -1,4 +1,4 @@
-<div align=center><img src=https://images.app.goo.gl/Xtiz8GSTSFy7WY8d7>
+<div align=center><img >
 </div>
 <br><br>
 <div align=center>EMRE</div>
